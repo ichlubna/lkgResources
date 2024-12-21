@@ -11,7 +11,7 @@ Feel free to create a pull request with additional resources ^_^.
 [Official databse of quilts](https://blocks.glass) \
 [Experimental datasets used in research](https://www.fit.vut.cz/person/ichlubna/public/random/index.php?section=research#:~:text=Acceleration%20on%20GPU-,3D%20displays,-The%20research%20regarding) \
 [Figma quilt template](https://www.figma.com/community/file/1269893384576901841/looking-glass-display-quilt-templates) \
-[Looking Glass Demos](https://scanned-reality.com/demo_looking_glass) \
+[Looking Glass Demos](https://scanned-reality.com/demo_looking_glass) 
 
 # Papers
 [Automatic 3D-display-friendly scene extraction from video sequences and optimal focusing distance identification](https://link.springer.com/article/10.1007/s11042-024-18573-6) \
@@ -25,7 +25,7 @@ Feel free to create a pull request with additional resources ^_^.
 [End-to-end system for real-time bidirectional holographic communication](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13034/1303404/End-to-end-system-for-real-time-bidirectional-holographic-communication/10.1117/12.3013045.full) \
 [Bringing Video Game Characters into the Real World on a Holographic Light Field Display](https://dl.acm.org/doi/abs/10.1145/3308532.3329423) \
 [Exploring Interactive Technology In Education Through The Use Of 3D Lenticular Projection And Volumetric displays](https://rshare.library.torontomu.ca/articles/thesis/Exploring_Interactive_Technology_In_Education_Through_The_Use_Of_3D_Lenticular_Particular_Projection_And_Volumetric_displays/14648649/files/28128867.pdf) \
-[Tauray: A Scalable Real-Time Open-Source Path Tracer for Stereo and Light Field Displays](https://dl.acm.org/doi/abs/10.1145/3550340.3564225) \
+[Tauray: A Scalable Real-Time Open-Source Path Tracer for Stereo and Light Field Displays](https://dl.acm.org/doi/abs/10.1145/3550340.3564225) 
 
 # Software
 [Official Looking Glass Factory software download page](https://lookingglassfactory.com/software)
@@ -41,8 +41,8 @@ Feel free to create a pull request with additional resources ^_^.
 [Experimental LKG snippets](https://github.com/lonetech/LookingGlass/tree/master) \
 [Online demo scenes on ShaderToy](https://www.shadertoy.com/results?query=looking+glass) \
 [Looking Glass quilts from side tracking shots in Adobe After Effects](https://github.com/JuanIrache/looking-glass-after-effects) \
-[Looking Glass Web applications](https://stereo.jpn.org/lkg/indexe.html) \
+[Looking Glass Web applications](https://stereo.jpn.org/lkg/indexe.html) 
 
 # Tutorials
 [How to create holograms for Looking Glass (quilt format) from a video captured with a phone](https://volurama.com/howto_create_looking_glass_quilt.html) \
-[Lightfield capture to Looking Glass “Quilt” image, scripted on the command line](https://www.summet.com/blog/2022/08/16/lightfield-capture-to-looking-glass-quilt-image-scripted-on-the-command-line/) \
+[Lightfield capture to Looking Glass “Quilt” image, scripted on the command line](https://www.summet.com/blog/2022/08/16/lightfield-capture-to-looking-glass-quilt-image-scripted-on-the-command-line/) 
