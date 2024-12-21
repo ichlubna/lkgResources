@@ -46,3 +46,8 @@ Feel free to create a pull request with additional resources ^_^.
 # Tutorials
 * [How to create holograms for Looking Glass (quilt format) from a video captured with a phone](https://volurama.com/howto_create_looking_glass_quilt.html)
 * [Lightfield capture to Looking Glass “Quilt” image, scripted on the command line](https://www.summet.com/blog/2022/08/16/lightfield-capture-to-looking-glass-quilt-image-scripted-on-the-command-line/)
+
+# Similar Devices
+[Leia Lume Pad 3D Tablet]([https://volurama.com/howto_create_looking_glass_quilt.html](https://www.leiainc.com/lume-pad-2))
+[Voxon Volumetric Display](https://www.voxon.co)
+[Red Hydrogen One 3D Phone](https://en.wikipedia.org/wiki/Red_Hydrogen_One)
