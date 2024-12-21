@@ -27,6 +27,7 @@ Feel free to create a pull request with additional resources ^_^.
 * [Exploring Interactive Technology In Education Through The Use Of 3D Lenticular Projection And Volumetric displays](https://rshare.library.torontomu.ca/articles/thesis/Exploring_Interactive_Technology_In_Education_Through_The_Use_Of_3D_Lenticular_Particular_Projection_And_Volumetric_displays/14648649/files/28128867.pdf)
 * [Tauray: A Scalable Real-Time Open-Source Path Tracer for Stereo and Light Field Displays](https://dl.acm.org/doi/abs/10.1145/3550340.3564225)
 * [Holographic Injection - Master's Thesis about Games Conversion to LKG format](https://www.vut.cz/en/students/final-thesis/detail/136794)
+* [DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays](https://arxiv.org/html/2407.14053v1)
 
 # Software
 * [Official Looking Glass Factory software download page](https://lookingglassfactory.com/software)
