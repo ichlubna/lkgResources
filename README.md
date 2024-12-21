@@ -62,3 +62,6 @@ Feel free to create a pull request with additional resources ^_^.
 * [Leia Lume Pad 3D Tablet](https://www.leiainc.com/lume-pad-2)
 * [Voxon Volumetric Display](https://www.voxon.co)
 * [Red Hydrogen One 3D Phone](https://en.wikipedia.org/wiki/Red_Hydrogen_One)
+
+# Others
+* [Patents](https://patents.justia.com/assignee/looking-glass-factory-inc)
