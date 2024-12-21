@@ -43,6 +43,16 @@ Feel free to create a pull request with additional resources ^_^.
 * [Online demo scenes on ShaderToy](https://www.shadertoy.com/results?query=looking+glass)
 * [Looking Glass quilts from side tracking shots in Adobe After Effects](https://github.com/JuanIrache/looking-glass-after-effects)
 * [Looking Glass Web applications](https://stereo.jpn.org/lkg/indexe.html)
+* [Real-time video to hologram generation](https://github.com/vossr/Real-time-hologram-generation)
+* [Holographic LKG Matrix code](https://github.com/Rezmason/matrix/)
+* [Displaying 3d genomic data using webgl on LKG](https://github.com/flatironinstitute/looking_glass_3d_test)
+* [Virtual Pokemon on LKG](https://github.com/IdreesInc/Holographic-Porygon?tab=readme-ov-file)
+* [Experimental LKG support for Doom game Engine](https://github.com/shole/gzdoom)
+* [3D Gaussian Splat Viewer for Looking Glass](https://github.com/chrisirhc/looking-glass-viewer-experiments)
+* [Interacting with the Looking Glass Holoplay Service in JavaScript](https://github.com/chigozienri/holoplayjs-examples)
+* [HoloMusicViz: Spotify Visualizer for LKG](https://github.com/8ude/spotify-viz)
+* [HoloWeasel: Looking Glass and Three.js working example files](https://github.com/sneakyweasel/HoloWeasel)
+* [Rou Hun Fan's port of the Whitestone demo for LKG](https://github.com/flowen/looking-glas-factory-demo)
 
 # Tutorials
 * [How to create holograms for Looking Glass (quilt format) from a video captured with a phone](https://volurama.com/howto_create_looking_glass_quilt.html)
