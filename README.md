@@ -8,7 +8,7 @@ The input data for the display consist of a set of views capturing the scene alo
 Feel free to create a pull request with additional resources ^_^.
 
 # Datasets
-* [Official databse of quilts](https://blocks.glass)
+* [Official database of quilts](https://blocks.glass)
 * [Experimental datasets used in research](https://www.fit.vut.cz/person/ichlubna/public/random/index.php?section=research#:~:text=Acceleration%20on%20GPU-,3D%20displays,-The%20research%20regarding)
 * [Figma quilt template](https://www.figma.com/community/file/1269893384576901841/looking-glass-display-quilt-templates)
 * [Looking Glass Demos](https://scanned-reality.com/demo_looking_glass)
