@@ -34,7 +34,6 @@ Feel free to create a pull request with additional resources ^_^.
 * [A tool that converts input quilt image or set of images into the native LKG format](https://github.com/ichlubna/quiltToNative)
 * [Experimental scripts for work with LKG data and scene-warping Blender script](https://github.com/ichlubna/lkg)
 * [A tool for getting the calibration data form the LKG device](https://github.com/ichlubna/getLKGCalibration)
-* [Experimental compression of the LKG data](https://github.com/ichlubna/lkgCompression)
 * [Conversion of computer games to the LKG](https://github.com/jbienz/ReGlass/)
 * [Blender LKG addon](https://github.com/regcs/AliceLG)
 * [OpenGL 3D renderer for LKG](https://github.com/dormon/3DApps/blob/master/src/renderHoloApps.cpp)
