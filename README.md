@@ -1,11 +1,11 @@
-3D display by Looking Glass Factory (LKG) is a device capable of projecting different views of the same scene into different viewing angles. This creates a 3D effect similar to VR or 3D cinema but without additional glasses.
+3D display by Looking Glass Factory (LKG) is an autostereoscopic device capable of projecting different views of the same scene into different viewing angles. This creates a 3D effect similar to VR or 3D cinema but without additional glasses. The visible 3D parallax serves as a depth cue to human vision. The scene on the display can be focused only at one focusing distance.
 
 [Official website](https://lookingglassfactory.com)
 
 The input data for the display consist of a set of views capturing the scene along a horizontal trajectory. The views are often stored in one image called quilt.
 ![lkgModel](https://github.com/user-attachments/assets/0f92f1e9-661f-4dd5-9df2-cfb558de5a17)
 
-Feel free to create a pull request with additional resources ^_^.
+This is a list of useful resources regarding LKG. The list contains scientific papers, datasets, specialized software with LKG support, tutorials and other relevant resources that might be helpful to people working with LKG. Feel free to create a [pull request](https://github.com/ichlubna/lkgResources/pulls) with additional resources ^_^.
 
 # Datasets
 * [Official database of quilts](https://blocks.glass)
