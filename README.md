@@ -28,6 +28,7 @@ This is a list of useful resources regarding LKG. The list contains scientific p
 * [Tauray: A Scalable Real-Time Open-Source Path Tracer for Stereo and Light Field Displays](https://dl.acm.org/doi/abs/10.1145/3550340.3564225)
 * [Holographic Injection - Master's Thesis about Games Conversion to LKG format](https://www.vut.cz/en/students/final-thesis/detail/136794)
 * [DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays](https://arxiv.org/html/2407.14053v1)
+* [Computer-Aided Decision Support and 3D Models in Pancreatic Cancer Surgery: A Pilot Study](https://www.mdpi.com/2077-0383/14/5/1567)
 
 # Software
 * [Official Looking Glass Factory software download page](https://lookingglassfactory.com/software)
@@ -62,6 +63,8 @@ This is a list of useful resources regarding LKG. The list contains scientific p
 * [Leia Lume Pad 3D Tablet](https://www.leiainc.com/lume-pad-2)
 * [Voxon Volumetric Display](https://www.voxon.co)
 * [Red Hydrogen One 3D Phone](https://en.wikipedia.org/wiki/Red_Hydrogen_One)
+* [Holovect](https://www.kickstarter.com/projects/2029950924/holovect-holographic-vector-display)
+* [CREAL Light Field Glasses](https://creal.com)
 
 # Others
 * [Patents](https://patents.justia.com/assignee/looking-glass-factory-inc)
