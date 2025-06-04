@@ -29,6 +29,7 @@ This is a list of useful resources regarding LKG. The list contains scientific p
 * [Holographic Injection - Master's Thesis about Games Conversion to LKG format](https://www.vut.cz/en/students/final-thesis/detail/136794)
 * [DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays](https://arxiv.org/html/2407.14053v1)
 * [Computer-Aided Decision Support and 3D Models in Pancreatic Cancer Surgery: A Pilot Study](https://www.mdpi.com/2077-0383/14/5/1567)
+* [Focus-aware compression and image quality metric for 3D displays](https://doi.org/10.1016/j.sigpro.2025.110091) 
 
 # Software
 * [Official Looking Glass Factory software download page](https://lookingglassfactory.com/software)
