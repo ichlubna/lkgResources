@@ -29,7 +29,12 @@ This is a list of useful resources regarding LKG. The list contains scientific p
 * [Holographic Injection - Master's Thesis about Games Conversion to LKG format](https://www.vut.cz/en/students/final-thesis/detail/136794)
 * [DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays](https://arxiv.org/html/2407.14053v1)
 * [Computer-Aided Decision Support and 3D Models in Pancreatic Cancer Surgery: A Pilot Study](https://www.mdpi.com/2077-0383/14/5/1567)
-* [Focus-aware compression and image quality metric for 3D displays](https://doi.org/10.1016/j.sigpro.2025.110091) 
+* [Focus-aware compression and image quality metric for 3D displays](https://doi.org/10.1016/j.sigpro.2025.110091)
+* [Glasses-Free Holographic Visualization of Pediatric Computed Tomography DICOM Data on Looking Glass 16” OLED](https://ieeexplore.ieee.org/abstract/document/11058832)
+* [Interactive Holographic 4D Visualization Multidimensional Structured Grid Data](https://onepetro.org/IPTCONF/proceedings-abstract/20IPTC/20IPTC/D023S129R002/154718)
+* [Knowing Your Student: Targeted Teaching Decision Support Through Asymmetric Mixed Reality Collaborative Learning](https://ieeexplore.ieee.org/document/9645428)
+* [Using a Portable Autostereoscopic Screen to Improve Anatomy Teaching and Learning](https://www.mdpi.com/2813-0545/2/1/8)
+* [3D Visualization of Nanoscale Tomography Using Holographic Displays ](https://academic.oup.com/mam/article-abstract/26/S2/1856/6893575?redirectedFrom=PDF)
 
 # Software
 * [Official Looking Glass Factory software download page](https://lookingglassfactory.com/software)
