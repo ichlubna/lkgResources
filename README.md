@@ -63,6 +63,7 @@ This is a list of useful resources regarding LKG. The list contains scientific p
 * [HoloMusicViz: Spotify Visualizer for LKG](https://github.com/8ude/spotify-viz)
 * [HoloWeasel: Looking Glass and Three.js working example files](https://github.com/sneakyweasel/HoloWeasel)
 * [Rou Hun Fan's port of the Whitestone demo for LKG](https://github.com/flowen/looking-glas-factory-demo)
+* [Looking Glass Display Simulator Extension for Blender 3D Editor](https://extensions.blender.org/add-ons/looking-glass-display-simulator/)
 
 # Tutorials
 * [How to create holograms for Looking Glass (quilt format) from a video captured with a phone](https://volurama.com/howto_create_looking_glass_quilt.html)
