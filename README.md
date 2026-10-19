@@ -38,6 +38,7 @@ This is a list of useful resources regarding LKG. The list contains scientific p
 * [Efficient Rendering for Light Field Displays using Tailored Projective Mappings](https://dl.acm.org/doi/abs/10.1145/3585498)
 * [Innovative Integration of 4D Cardiovascular Reconstruction and Hologram: Framework Development of a New Visualization Tool for Coronary Artery Bypass Grafting Planning](https://medinform.jmir.org/2025/1/e72237)
 * [Interactive Holographic Visualization for 3D Facial Avatar](https://arxiv.org/abs/2502.08085)
+* [Efficient per-pixel continuous representation and reconstruction of multi-view images](https://doi.org/10.1016/j.jvcir.2026.104999)
 
 # Software
 * [Official Looking Glass Factory software download page](https://lookingglassfactory.com/software)
